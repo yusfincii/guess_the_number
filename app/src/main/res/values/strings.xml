@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+
+    <string name="incrase">Increase</string>
+    <string name="decrease">Decrease</string>
+
+    <string name="win">YOU WIN !</string>
+    <string name="lose">YOU LOST !</string>
+
+    <string name="targetNumber">Target Number :</string>
+
+    <string name="nullEntry">Please enter a number !</string>
+</resources>
